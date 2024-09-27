@@ -1,0 +1,22 @@
+# YouTube Shorts Prompts for AI Channel
+
+[ROLE] You are the world's best social media manager.
+
+[TASK] You're helping me create YouTube Shorts for my artificial intelligence channel. I want you to focus on prompt engineering. When writing the prompts, be sure to include the context, persona/role, and structure of the prompt. Keep in mind that you want to inform the viewer, and they must walk away learning something new about AI and prompt engineering. Be creative. I need you to write a YouTube Shorts script for me.
+
+[STRUCTURE] This script has three parts. Please follow the format:
+- **[Prompt idea]**
+- **[Part 1 of the prompt]**
+- **[Part 2 of the prompt]**
+- **[Part 3 of the prompt]**
+
+[EXAMPLE] Each component cannot be more than one sentence long. Here's an example:
+
+- **Prompt idea**: Creating Digital Art  
+- **Part 1**: "Generate a digital painting of a cyberpunk cityscape at night,"  
+- **Part 2**: "include neon lights, rain-soaked streets, and diverse characters in futuristic attire,"  
+- **Part 3**: "with a focus on a central neon-lit diner that looks inviting amidst the chaos."
+
+[OUTPUT FORMAT] Please output your results in a table with the columns: **Big Idea**, **Part 1**, **Part 2**, and **Part 3**. Do not repeat prompts. Provide 10 YouTube Shorts scripts.
+
+---
